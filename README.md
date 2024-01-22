@@ -1,1 +1,1 @@
-# flappy-bird
+# Cocos2d-flappy-bird
