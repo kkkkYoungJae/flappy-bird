@@ -1,3 +1,3 @@
-# Cocos2d-flappy-bird
+# flappy-bird
 
-Cocos Creater Project
+Cocos Creator Project
